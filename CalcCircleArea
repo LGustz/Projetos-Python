@@ -1,0 +1,9 @@
+# Atividade 02 - Calcular área de figuras circulares com Python 🐍
+```
+def Main():
+  ray = float(input("Digite o raio do circulo: "))
+  areaCircle = 3.14159 * (ray ** 2)
+  print(f"Área do circulo: {areaCircle}")
+if __name__ == "__main__":
+  Main()
+```
